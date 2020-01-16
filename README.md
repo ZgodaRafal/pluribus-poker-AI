@@ -148,3 +148,8 @@ Big shout out to the authors of the following repositories! Here are some MIT li
 
 Useful tools that contributed to the making of the poker engine:
 * [Poker hand winner calculator that came in handy for building tests for the engine.](https://www.pokerlistings.com/which-hand-wins-calculator)
+
+Other useful blog links, papers and resources:
+* [Blog post on CFR](https://int8.io/counterfactual-regret-minimization-for-poker-ai/)
+* [No regret dynamics tutorial](https://theory.stanford.edu/~tim/f13/l/l17.pdf)
+* [Prediction, Learning and Games book.](http://www.ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf)
